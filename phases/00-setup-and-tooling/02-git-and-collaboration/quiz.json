@@ -3,7 +3,12 @@
     {
       "stage": "pre",
       "question": "What does 'version control' primarily help you do?",
-      "options": ["Automatically fix bugs in your code", "Speed up code execution", "Track changes to files over time and collaborate with others", "Compress files to save disk space"],
+      "options": [
+        "Automatically fix bugs in your code", 
+        "Speed up code execution", 
+        "Track changes to files over time and collaborate with others", 
+        "Compress files to save disk space"
+      ],
       "correct": 2,
       "explanation": "Version control systems like git track every change made to files, allowing you to revert to previous states and collaborate with others on the same codebase."
     },
